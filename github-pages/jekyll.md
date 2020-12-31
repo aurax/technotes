@@ -1,6 +1,20 @@
-## Welcome to GitHub Pages
+---
+title: Jekyll And GitHub Pages
+tags: Development Git HowTo Jekyll GitHubPages
+permalink: /dev/jekyll/
+---
 
-You can use the [editor on GitHub](https://github.com/aurax/technotes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Articles
+
+- [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+- [How to Create a Blog Using Jekyll and GitHub Pages on Windows](https://www.kiltandcode.com/2020/04/30/how-to-create-a-blog-using-jekyll-and-github-pages-on-windows/)
+
+## Resources
+
+- [Jekyll](https://jekyllrb.com/)
+- [Free Jekyll Themes](https://jekyllthemes.io/free)
+
+## Basic
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +44,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aurax/technotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aurax/bazirus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
