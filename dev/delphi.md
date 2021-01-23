@@ -3,6 +3,12 @@ title: Delphi resources
 tags: Development Delphi
 ---
 
+## IDE
+
+- [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter)
+  Full-Featured Free Delphi IDE for Creating Native Cross-Platform Apps
+- [C++Builder Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
+
 ## Common
 
 - Article and Video links are located [here](index.md)
@@ -33,6 +39,10 @@ tags: Development Delphi
 - [VCL Styles Utils](https://github.com/RRUZ/vcl-styles-utils)
   The VCL Styles Utils is a Delphi library which extend the RAD Studio VCL Styles, adding unique features like the support for Classic and New Common dialogs, Task Dialogs, Styling of popup and shell menus, Non client area components and much more.
 - [Learn How To Customize The ListView Detail Text In A List Item With Delphi](https://blogs.embarcadero.com/discover-how-to-show-a-detail-text-at-the-bottom-of-every-list-view-item-on-delphi-with-the-fmx-listviewcustombottomdetail-sample/)
+- [Turbo Pack](https://github.com/TurboPack)
+  Open source, community maintained projects for use with Embarcadero's RAD Studio, Delphi and C++Builder.
+  - [Orpheus](https://github.com/TurboPack/Orpheus)
+    is an award-winning UI toolkit for Delphi and C++Builder. It contains calendars, clocks, Object Inspector, LookOut bar and report views. Supported on platforms: Windows.
 
 ## Mobile
 

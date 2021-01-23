@@ -3,6 +3,11 @@ title: Development
 tags: Development C++ Delphi Library Books
 ---
 
+## Search
+
+- [Dev.to](https://dev.to/)
+   We're a place where coders share, stay up-to-date and grow their careers.
+
 ## Online compilers
 
 - [Ideone](https://ideone.com/)
@@ -86,7 +91,14 @@ tags: Development C++ Delphi Library Books
 ### TDD (Test-Driven Development)
 
 - [Test-driven development and unit testing with examples in C++](http://alexott.net/en/cpp/CppTestingIntro.html)
+- [MUC++] Phil Nash - "Test Driven C++"
+  We know that testing is important, but writing tests is hard and takes time - and can be demotivating when you want to hack out features.  
+  But what if we flipped the whole thing around? It turns out that by writing tests first the dynamic changes in unexpected ways. Testing becomes easier. Adding features becomes easier. The dopamine hit you get from seeing something work becomes more frequent. Time lost to bugs and regressions virtually disappears. You start to get invited to bigger and better parties!  
+  Ok, one of those statements is not guaranteed - but the rest are! If you've never tried TDD (perhaps you have heard of it but been skeptical), or maybe had a bad experience in the past, this talk will give you a sound intro to how it works, how you can get started, and what you can expect to achieve.
+  - [Part 1](https://youtu.be/MqNqi_OvnXA)
+  - [Part 2](https://youtu.be/OZFhRjzaC0o)
   
+
 ## Technical Resources
 
 ### Memory

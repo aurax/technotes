@@ -17,6 +17,7 @@ tags: Development Resource Environment
   - [C#](dev/csharp.md)
   - [C# UI](dev/csharp-controls.md)
   - [Xamarin](dev/csharp-xamarin.md)
+  - [GitHub projects](dev/csharp-github.md)
 - [SQL](dev/sql.md)
 - [Games](dev/games.md)
 - [Assembler](dev/assambler.md)

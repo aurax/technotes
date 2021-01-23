@@ -12,6 +12,8 @@ tags: Development C# .NET
   - Атрибуты сведений о вызывающем объекте
   - Класс ‘Path’
   - StringBuilder
+- [C++ For C# Developers](https://www.jacksondunstan.com/articles/5530)
+  Outside of Unity, C# is rarely used as a game programming language. C++ is used heavily in Unreal, Cryengine, Lumberyard, and almost all proprietary game studio engines. This series is for Unity game programmers who know C# and want to broaden their skills so they can effectively write code for other engines, or even write C++ scripts for Unity.
 
 ## C#9
 

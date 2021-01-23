@@ -9,6 +9,11 @@ data: 2021-01-02
 - [Turbo Pack](https://github.com/TurboPack)
   Open source, community maintained projects for use with Embarcadero's RAD Studio, Delphi and C++Builder.
 
+## Logging
+
+- [loggerpro](https://github.com/danieleteti/loggerpro)
+  An modern and pluggable logging framework for Delphi
+
 ## Events
 
 - [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus)
@@ -67,7 +72,13 @@ data: 2021-01-02
 - [FastMath - Fast Math Library for Delphi](https://github.com/neslib/FastMath)
   FastMath is a Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
   - Article: [High-Performance FastMath Library For Math-Intensive Applications On iOS, macOS, Android, And Windows](https://blogs.embarcadero.com/high-performance-fastmath-library-for-math-intensive-applications-on-ios-macos-android-and-windows/)
--
+
+## Communication
+
+- [NetCom7](https://github.com/DelphiBuilder/NetCom7)
+  The fastest communications possible.  
+  This set of components is the fastest possible implementation of socket communications, in any language; this is an extremely optimised code on TCP/IP sockets. Forget using a thread per connection: With this suite you can have as many concurrent connections to your server as you like. Threads are used per request and not per connection, and are maintained in a very fast thread pool class.  
+  The implementation begins with TncTCPServer and TncTCPClient which implements the basic socket communications. You can use TncTCPClient and TncTCPServer if all you want is to implement standard (but very fast) socket comms.
 
 ## Web
 
