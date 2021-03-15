@@ -41,6 +41,10 @@ tags: Development Resource Environment
   - [Batch overview](scripts/batch.md)
   - [Code Snippets](scripts/batch-code-snippets.md)
 
+## My Presentations
+
+- [.NET 5 - overview](presentations/dotnet5.pptx)
+
 ## Markdown Guide
 
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
