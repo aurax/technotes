@@ -14,7 +14,7 @@ tags: Development VSCode Plugins
 - [Command Line Interface (CLI)](https://code.visualstudio.com/docs/editor/command-line)
   Visual Studio Code has a powerful command line interface built-in that lets you control how you launch the editor. You can open files, install extensions, change the display language, and output diagnostics through command-line options (switches).
 
-## Settings
+## Settings File
 
 - [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
   It is easy to configure Visual Studio Code to your liking through its various settings. Nearly every part of VS Code's editor, user interface, and functional behavior has options you can modify.
@@ -69,6 +69,7 @@ code --list-extensions | % { "call code --force --install-extension $_" }
   ```
 
   The color should be a hex code
+
 - [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
   - Command Palette: Ctrl+Shift+P
   - Quickly open files: Ctrl+P

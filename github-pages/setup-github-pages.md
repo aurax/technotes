@@ -14,6 +14,6 @@ data: 2021-01-04
 
 The markdown syntax highlighting file is located here: `C:\Users\<User>\AppData\Roaming\Notepad++\userDefineLangs\markdown._preinstalled.udl.xml`
 
-```
+```script
 bgColor="D2D2D2"
 ```

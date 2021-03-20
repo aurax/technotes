@@ -68,6 +68,13 @@ git rebase -i HEAD~2
 
 and change the first word of the second line from “pick” to “squash”. Then write your file, and quit. Git will squash your first commit into your second last commit.
 
+### How to add a file to the last commit in git?
+
+```bash
+git add .
+git commit --amend --no-edit
+```
+
 ### How to squash commits in git after they have been pushed?
 
 Squash commits locally with
@@ -175,17 +182,23 @@ or
 git rebase --interactive HEAD~2
 ```
 
-### Fixing conflict between master and feature branch
-
-Fixing via merge:
+### How to permanently remove few commits from remote branch
 
 ```bash
-git fetch origin         # gets latest changes made to master
-git checkout feature     # switch to your feature branch
-git merge master         # merge with master
-# resolve any merge conflicts here
-git push origin feature  # push branch and update the pull request
+git reset --hard HEAD~1
 ```
+
+your local branch to remove changes from working tree and index.
+
+and
+
+```bash
+git push --force origin feature
+```
+
+your revised local branch to the remote.
+
+### Fixing conflict between master and feature branch
 
 Fixing via rebase:
 
@@ -200,6 +213,16 @@ git push --force origin feature
 Note carefully that the –force option on the push after rebasing is probably required as the rebase effectively rewrites the feature branch. This means that you need to overwrite your old branch in GitHub by force pushing.
 
 Regardless of whether you do a merge or a rebase, afterwards the conflicts should be resolved and your reviewer should be able to complete the pull request.
+
+Fixing via merge:
+
+```bash
+git fetch origin         # gets latest changes made to master
+git checkout feature     # switch to your feature branch
+git merge master         # merge with master
+# resolve any merge conflicts here
+git push origin feature  # push branch and update the pull request
+```
 
 - [stackoverflow](https://stackoverflow.com/a/40864334)
 

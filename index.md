@@ -33,6 +33,7 @@ tags: Development Resource Environment
 
 ## Environment
 
+- [C++ project environment](deb/cpp-dev-environment.md)
 - [User software](soft/software.md)
 - [Tips and Tricks](info/tips-and-tricks.md)
 - [gitignore](https://github.com/github/gitignore)

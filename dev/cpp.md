@@ -42,7 +42,7 @@ tags: Development C++
 
 - Additional article and video links are located [here](index.md)
 
-### Common
+### Common resources
 
 - [Include What You Use](https://www.fluentcpp.com/2021/01/01/include-what-you-use/)
   include-what-you-use is a clang-based library that reworks the #includes sections of a C++ file, be there a header or a .cpp file.
