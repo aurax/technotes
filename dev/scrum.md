@@ -1,10 +1,4 @@
----
-title:  Shareware
-tags: Development Shareware
-data: 2021-01-04
----
-
-## Common
+# Common
 
 - [Definition of Done vs Acceptance Criteria](https://www.visual-paradigm.com/scrum/definition-of-done-vs-acceptance-criteria/)
   **Definition of Done (DoD)** is a list of requirements that a user story must adhere to for the team to call it complete. While the **Acceptance Criteria** of a User Story consist of set of Test Scenarios that are to be met to confirm that the software is working as expected.  

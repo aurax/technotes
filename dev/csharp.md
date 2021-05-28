@@ -1,7 +1,4 @@
----
-title:  C#
-tags: Development C# .NET
----
+# C\#
 
 ## Common C\#
 
@@ -14,6 +11,12 @@ tags: Development C# .NET
   - StringBuilder
 - [C++ For C# Developers](https://www.jacksondunstan.com/articles/5530)
   Outside of Unity, C# is rarely used as a game programming language. C++ is used heavily in Unreal, Cryengine, Lumberyard, and almost all proprietary game studio engines. This series is for Unity game programmers who know C# and want to broaden their skills so they can effectively write code for other engines, or even write C++ scripts for Unity.
+
+## C\# Code Guidelines
+
+- dotnet / runtime: [C# Coding Style](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md)
+- MSDN: [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [C# Coding Guidelines and Practices - 2021](https://vmsdurano.com/c-coding-guidelines-and-practices/)
 
 ## C#9
 
