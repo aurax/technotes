@@ -203,7 +203,8 @@ your revised local branch to the remote.
 Fixing via rebase:
 
 ```bash
-git fetch origin         # gets latest changes made to master
+git checkout master
+git pull                 # gets latest changes made to master
 git checkout feature     # switch to your feature branch
 git rebase master        # rebase your branch on master
 # complete the rebase, fix merge conflicts, etc.
@@ -213,6 +214,14 @@ git push --force origin feature
 Note carefully that the –force option on the push after rebasing is probably required as the rebase effectively rewrites the feature branch. This means that you need to overwrite your old branch in GitHub by force pushing.
 
 Regardless of whether you do a merge or a rebase, afterwards the conflicts should be resolved and your reviewer should be able to complete the pull request.
+
+or:
+
+```bash
+git fetch -p
+git rebase origin/master
+git push --force-with-lease
+```
 
 Fixing via merge:
 
