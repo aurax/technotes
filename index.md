@@ -5,7 +5,7 @@ tags: Development Resource Environment
 
 ## Development resources
 
-- [common resources](dev/index.md)
+- [common development resources](dev/index.md)
 - [Git](dev/git.md)
   - [Useful Git commands](dev/git-useful-commands.md)
 - [C++](dev/cpp.md)

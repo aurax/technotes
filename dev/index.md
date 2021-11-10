@@ -6,16 +6,16 @@ tags: Development C++ Delphi Library Books
 ## Search
 
 - [Dev.to](https://dev.to/)
-   We're a place where coders share, stay up-to-date and grow their careers.
+  We're a place where coders share, stay up-to-date and grow their careers.
 
 ## Online compilers
 
 - [Ideone](https://ideone.com/)
-   is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages. 
+  is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 ## IDE
 
-- [Visual Studio](visualstudio.md)
+- [Visual Studio](visual-studio.md)
 - [Visual Studio Code](vscode.md)
 - [Apache NetBeans](https://netbeans.org/)
   Quickly and easily develop desktop, mobile, and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.
@@ -40,7 +40,7 @@ tags: Development C++ Delphi Library Books
 ## Installers
 
 - [issrc](https://github.com/jrsoftware/issrc)
-   Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+  Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
 
 ## Patterns
 
@@ -61,14 +61,14 @@ tags: Development C++ Delphi Library Books
 
 - [Чем быстрее вы забудете ООП, тем лучше для вас и ваших программ](https://habr.com/ru/post/451982/)
   - Автор оригинала: Dawid Ciężarkiewicz: [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
-  "Объектно-ориентированное программирование — чрезвычайно плохая идея, которая могла возникнуть только в Калифорнии."
-  Возможно, это только мои ощущения, но объектно-ориентированное программирование кажется стандартной, самой распространённой парадигмой проектирования ПО. Именно его обычно преподают студентам, объясняют в онлайн-туториалах и, по какой-то причине, спонтанно применяют даже тогда, когда не собирались этого делать.
+    "Объектно-ориентированное программирование — чрезвычайно плохая идея, которая могла возникнуть только в Калифорнии."
+    Возможно, это только мои ощущения, но объектно-ориентированное программирование кажется стандартной, самой распространённой парадигмой проектирования ПО. Именно его обычно преподают студентам, объясняют в онлайн-туториалах и, по какой-то причине, спонтанно применяют даже тогда, когда не собирались этого делать.
 
 ### Clean Code
 
-- "*The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.*"
+- "_The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures._"
   [Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/quotes/4472522-the-proper-use-of-comments-is-to-compensate-for-our)
-- "*Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write.*"
+- "_Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write._"
   [Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/quotes/835238-indeed-the-ratio-of-time-spent-reading-versus-writing-is)
 - [Stop Writing Code Comments](https://blog.usejournal.com/stop-writing-code-comments-28fef5272752)
   The goal of every programmer should be to write code so clean and expressive that code comments are unnecessary. The purpose of every variable, function and class should be implicit in its name and structure.
@@ -87,7 +87,7 @@ tags: Development C++ Delphi Library Books
   This blog post is aimed at developers with at least a small amount of unit testing experience.
 - [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
   Unit testing is an essential instrument in the toolbox of any serious software developer. However, it can sometimes be quite difficult to write a good unit test for a particular piece of code. Having difficulty testing their own or someone else’s code, developers often think that their struggles are caused by a lack of some fundamental testing knowledge or secret unit testing techniques.
-  
+
 ### TDD (Test-Driven Development)
 
 - [Test-driven development and unit testing with examples in C++](http://alexott.net/en/cpp/CppTestingIntro.html)
@@ -97,7 +97,6 @@ tags: Development C++ Delphi Library Books
   Ok, one of those statements is not guaranteed - but the rest are! If you've never tried TDD (perhaps you have heard of it but been skeptical), or maybe had a bad experience in the past, this talk will give you a sound intro to how it works, how you can get started, and what you can expect to achieve.
   - [Part 1](https://youtu.be/MqNqi_OvnXA)
   - [Part 2](https://youtu.be/OZFhRjzaC0o)
-  
 
 ## Technical Resources
 

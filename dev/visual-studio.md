@@ -1,11 +1,12 @@
 ---
-title:  Visual Studio resources
+title: Visual Studio resources
 tags: Development VisualStudio Plugins
 ---
 
 ## Common info
 
 - [Extensions for the Visual Studio family of products](https://marketplace.visualstudio.com/vs)
+- [Discover extensions for Visual Studio 2022](https://marketplace.visualstudio.com/search?target=VS&category=All%20categories&vsVersion=vs2022&sortBy=Installs)
 
 ## Visual Studio 2019 plugins
 
@@ -29,3 +30,7 @@ tags: Development VisualStudio Plugins
   Uses industry standard tools to optimize any JPEG, PNG and Gifs - including animated Gifs. Can do both lossy and lossless optimization.
 - [ReSharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
   The legendary .NET productivity tool: find and fix errors and code smells; navigate and refactor; run unit tests and write quality code faster.
+- [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
+  SQLite / SQL Server Compact Toolbox extension for Visual Studio. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
+- [SonarLint for Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2019)
+  Roslyn based static code analysis: Find and instantly fix nasty bugs and code smells in C#, VB.Net, C, C++ and JS.
